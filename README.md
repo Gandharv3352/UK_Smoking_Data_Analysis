@@ -4,7 +4,7 @@ This project analyses UK smoking trends using Excel, focusing on patterns across
 ---
 
 ## 📊 Dashboard Screenshot
-![Dashboard Screenshot](Analysis Dashboard.png)
+![Dashboard Screenshot](Analysis_Dashboard.png)
 
 ---
 
@@ -21,7 +21,7 @@ Here’s a snapshot of the dataset in Excel:
 | Female | 37  | Married        | GCSE/O Level        | British    | White     | 15,600 to 20,800 | The North | No    |
 | Male   | 53  | Married        | Degree              | British    | White     | Above 36,400     | The North | Yes   |
 
-> *Note: This is just a sample; full data is available in `UK_Smoking_Data_Analysis.xlsx`.*
+> *Note: This is just a sample; full data is available in [UK_Smoking_Data_Analysis.xlsx](UK_Smoking_Data_Analysis.xlsx) .*
 
 ---
 
@@ -32,11 +32,8 @@ Here’s a snapshot of the dataset in Excel:
 - Correlations between smoking and gross incomes are observable  
 
 ---
-
-## 📂 Files
-- `UK_Smoking_Data_Analysis.xlsx` → Full dataset used for analysis  
-- `Analysis Dashboard.png` → Screenshot of the dashboard
-- `Table.png` → Screenshot of the dashboard   
+## 📂 Dataset
+Download the dataset: [UK_Smoking_Data_Analysis.xlsx](UK_Smoking_Data_Analysis.xlsx) 
 
 ---
 
